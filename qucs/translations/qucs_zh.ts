@@ -59,37 +59,37 @@
     <message>
         <location line="+16"/>
         <source>OK</source>
-        <translation>Гаразд</translation>
+        <translation>确定</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Cancel</source>
-        <translation>Скасувати</translation>
+        <translation>取消</translation>
     </message>
     <message>
         <location line="-14"/>
         <source>Arrow head: </source>
-        <translation>Вістря стрілки: </translation>
+        <translation>箭头： </translation>
     </message>
     <message>
         <location line="+2"/>
         <source>two lines</source>
-        <translation>дві лінії</translation>
+        <translation>两行</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>filled</source>
-        <translation>заповнене</translation>
+        <translation>填充</translation>
     </message>
     <message>
         <location line="-36"/>
         <source>      Head Width: </source>
-        <translation>   Товщина лінії:  </translation>
+        <translation>   箭头宽度:  </translation>
     </message>
     <message>
         <location line="+14"/>
         <source>      Line Width: </source>
-        <translation>   Товщина лінії: </translation>
+        <translation>   线条宽度: </translation>
     </message>
 </context>
 <context>
@@ -97,95 +97,94 @@
     <message>
         <location filename="dialogs/changedialog.cpp" line="+42"/>
         <source>Change Component Properties</source>
-        <translation>Змінити властивості компоненту</translation>
+        <translation>改变不见属性</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Components:</source>
-        <translation>Компоненти:</translation>
+        <translation>部件:</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Component Names:</source>
-        <translation>Найменування компонентів:</translation>
+        <translation>部件名称:</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Property Name:</source>
-        <translation>Найменування властивості:</translation>
+        <translation>属性名称:</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>New Value:</source>
-        <translation>Нове значення:</translation>
+        <translation>新取值:</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Replace</source>
-        <translation>Замінити</translation>
+        <translation>替换</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+70"/>
         <source>Cancel</source>
-        <translation>Скасувати</translation>
+        <translation>取消</translation>
     </message>
     <message>
         <location line="-103"/>
         <source>all components</source>
-        <translation>всі компоненти</translation>
+        <translation>所有部件</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>resistors</source>
-        <translation>опори</translation>
+        <translation>电阻</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>capacitors</source>
-        <translation>конденсатори</translation>
+        <translation>电容</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>transistors</source>
-        <translation>транзистори</translation>
+        <translation>晶体管</translation>
     </message>
     <message>
         <location line="+74"/>
         <source>Error</source>
-        <translation type="unfinished">Помилка</translation>
+        <translation>错误</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Regular expression for component name is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>部件名称的正则表达式搜索不可用。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Found Components</source>
-        <translation>Знайдені компоненти</translation>
+        <translation>部件找到</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Change properties of
 </source>
-        <translation>Змінити властивості
-</translation>
+        <translation>改变属性</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>these components ?</source>
-        <translation>цих компонентів ?</translation>
+        <translation>这些部件?</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Yes</source>
-        <translation>Так</translation>
+        <translation>是</translation>
     </message>
     <message>
         <location line="-99"/>
         <source>inductors</source>
-        <translation>індуктивності</translation>
+        <translation>电感</translation>
     </message>
     <message>
         <source>No match found!</source>
@@ -197,42 +196,42 @@
     <message>
         <location filename="components/componentdialog.cpp" line="+43"/>
         <source>Edit Component Properties</source>
-        <translation>Зміна властивостей компоненту</translation>
+        <translation type="unfinished">编辑部件属性</translation>
     </message>
     <message>
         <location line="+280"/>
         <source>OK</source>
-        <translation>Гаразд</translation>
+        <translation type="unfinished">确定</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Apply</source>
-        <translation>Застосувати</translation>
+        <translation type="unfinished">应用</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Cancel</source>
-        <translation>Скасувати</translation>
+        <translation type="unfinished">取消</translation>
     </message>
     <message>
         <location line="-63"/>
         <source>Name</source>
-        <translation>Ім&apos;я</translation>
+        <translation type="unfinished">名称</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Value</source>
-        <translation>Значення</translation>
+        <translation type="unfinished">值</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>display</source>
-        <translation>показати</translation>
+        <translation type="unfinished">显示</translation>
     </message>
     <message>
         <location line="+34"/>
         <source>Browse</source>
-        <translation>Перегляд</translation>
+        <translation type="unfinished">浏览</translation>
     </message>
     <message>
         <location line="-218"/>
@@ -245,12 +244,12 @@
         <location line="+94"/>
         <location line="+49"/>
         <source>display in schematic</source>
-        <translation>показувати на схемі</translation>
+        <translation type="unfinished">电路图中显示</translation>
     </message>
     <message>
         <location line="+451"/>
         <source>Select a file</source>
-        <translation>Вибрати файл</translation>
+        <translation type="unfinished">选择一个文件</translation>
     </message>
     <message>
         <location line="-412"/>
@@ -259,147 +258,147 @@
         <location line="+177"/>
         <location line="+97"/>
         <source>yes</source>
-        <translation>так</translation>
+        <translation type="unfinished">是</translation>
     </message>
     <message>
         <location line="-454"/>
         <location line="+181"/>
         <location line="+272"/>
         <source>no</source>
-        <translation>ні</translation>
+        <translation type="unfinished">否</translation>
     </message>
     <message>
         <location line="-486"/>
         <source>Add</source>
-        <translation>Додати</translation>
+        <translation type="unfinished">添加</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Remove</source>
-        <translation>Видалити</translation>
+        <translation type="unfinished">删除</translation>
     </message>
     <message>
         <location line="-47"/>
         <source>Description</source>
-        <translation>Опис</translation>
+        <translation type="unfinished">描述</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>Edit</source>
-        <translation>Редагувати</translation>
+        <translation type="unfinished">编辑</translation>
     </message>
     <message>
         <location line="-45"/>
         <source>Name:</source>
-        <translation>Ім&apos;я:</translation>
+        <translation type="unfinished">名称：</translation>
     </message>
     <message>
         <location line="+507"/>
         <source>All Files</source>
-        <translation>Усі файли</translation>
+        <translation type="unfinished">所有文件</translation>
     </message>
     <message>
         <location line="-685"/>
         <source>Sweep</source>
-        <translation>Розгортка</translation>
+        <translation type="unfinished">扫描</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Simulation:</source>
-        <translation>Моделювання:</translation>
+        <translation type="unfinished">仿真:</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Sweep Parameter:</source>
-        <translation>Параметр розгортки:</translation>
+        <translation type="unfinished">参数扫描:</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Type:</source>
-        <translation>Тип:</translation>
+        <translation type="unfinished">类型:</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>linear</source>
-        <translation>лінійний</translation>
+        <translation type="unfinished">线性</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>logarithmic</source>
-        <translation>логарифмічний</translation>
+        <translation type="unfinished">对数</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>list</source>
-        <translation>список</translation>
+        <translation type="unfinished">列表</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>constant</source>
-        <translation>константа</translation>
+        <translation type="unfinished">常量</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Values:</source>
-        <translation>Значення:</translation>
+        <translation type="unfinished">值：</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Start:</source>
-        <translation>Запустити:</translation>
+        <translation type="unfinished">开始:</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Stop:</source>
-        <translation>Спинити:</translation>
+        <translation type="unfinished">结束:</translation>
     </message>
     <message>
         <location line="+9"/>
         <location line="+706"/>
         <location line="+22"/>
         <source>Step:</source>
-        <translation>Крок:</translation>
+        <translation type="unfinished">歩长:</translation>
     </message>
     <message>
         <location line="-721"/>
         <source>Number:</source>
-        <translation>Кількість:</translation>
+        <translation type="unfinished">数量:</translation>
     </message>
     <message>
         <location line="+79"/>
         <location line="+24"/>
         <source>Properties</source>
-        <translation>Властивості</translation>
+        <translation type="unfinished">属性</translation>
     </message>
     <message>
         <location line="+594"/>
         <source>Points per decade:</source>
-        <translation>Кількість точок на декаду:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="-94"/>
         <source>Touchstone files</source>
-        <translation>Файли Touchstone</translation>
+        <translation type="unfinished">Touchstone文件</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>SPICE files</source>
-        <translation>Файли SPICE</translation>
+        <translation type="unfinished">SPICE文件</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>VHDL files</source>
-        <translation>Файли VHDL</translation>
+        <translation type="unfinished">VHDL文件</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Verilog files</source>
-        <translation>Файли Verilog</translation>
+        <translation type="unfinished">Verilog文件</translation>
     </message>
     <message>
         <location line="-3"/>
         <source>CSV files</source>
-        <translation>Файли CSV</translation>
+        <translation type="unfinished">CSV文件</translation>
     </message>
 </context>
 <context>
@@ -2411,42 +2410,42 @@ but is %1 !</source>
     <message>
         <location filename="../qucs-transcalc/optionsdialog.cpp" line="+36"/>
         <source>Options</source>
-        <translation>Налаштування</translation>
+        <translation>选项</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Units</source>
-        <translation>Одиниці</translation>
+        <translation>单位</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Frequency</source>
-        <translation>Частота</translation>
+        <translation>频率</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Length</source>
-        <translation>Довжина</translation>
+        <translation>长度</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Resistance</source>
-        <translation>Опір</translation>
+        <translation>电阻</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Angle</source>
-        <translation>Кут</translation>
+        <translation>角度</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Save as Default</source>
-        <translation>Зберегти як стандартні налаштування</translation>
+        <translation>保存为默认项</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Dismiss</source>
-        <translation>Завершити</translation>
+        <translation>取消</translation>
     </message>
 </context>
 <context>
@@ -17885,37 +17884,37 @@ open files with an appropriate program.</source>
     <message>
         <location filename="dialogs/savedialog.cpp" line="+58"/>
         <source>Modified Files</source>
-        <translation>Змінені файли</translation>
+        <translation>已修改的文件</translation>
     </message>
     <message>
         <location line="+34"/>
         <source>Untitled</source>
-        <translation>Без назви</translation>
+        <translation>未命名</translation>
     </message>
     <message>
         <location line="-56"/>
         <source>Save the modified files</source>
-        <translation>Зберегти змінені файли</translation>
+        <translation>保存修改的文件</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Select files to be saved</source>
-        <translation>Вибір файлів для збереження</translation>
+        <translation>选择需要修改的文件</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Abort Closing</source>
-        <translation>Перервати закриття</translation>
+        <translation>终止关闭</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Save Selected</source>
-        <translation>Зберегти виділене</translation>
+        <translation>保存选择的</translation>
     </message>
     <message>
         <location line="-3"/>
         <source>Don&apos;t Save</source>
-        <translation>Не зберігати</translation>
+        <translation>不保存</translation>
     </message>
 </context>
 <context>
@@ -18139,122 +18138,122 @@ are included in the search.</source>
     <message>
         <location filename="dialogs/settingsdialog.cpp" line="+61"/>
         <source>Data Display:</source>
-        <translation>Перегляд даних:</translation>
+        <translation>日期显示:</translation>
     </message>
     <message>
         <location line="-5"/>
         <source>Data Set:</source>
-        <translation>Набір даних:</translation>
+        <translation>设置日期:</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>open data display after simulation</source>
-        <translation>відкрити перегляд даних після моделювання</translation>
+        <translation>仿真完成后打开数据显示</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>show Grid</source>
-        <translation>показувати сітку</translation>
+        <translation>显示网格</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>horizontal Grid:</source>
-        <translation>горизонтальна сітка:</translation>
+        <translation type="unfinished">水平网格:</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>vertical Grid:</source>
-        <translation>вертикальна сітка:</translation>
+        <translation>垂直网格:</translation>
     </message>
     <message>
         <location line="+45"/>
         <source>OK</source>
-        <translation>Гаразд</translation>
+        <translation>确定</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Apply</source>
-        <translation>Застосувати</translation>
+        <translation>应用</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Cancel</source>
-        <translation>Скасувати</translation>
+        <translation>取消</translation>
     </message>
     <message>
         <location line="-101"/>
         <source>Edit File Properties</source>
-        <translation>Редагувати властивості файла</translation>
+        <translation>编辑文件属性</translation>
     </message>
     <message>
         <location line="+34"/>
         <source>Simulation</source>
-        <translation>Моделювання</translation>
+        <translation>仿真</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Grid</source>
-        <translation>Сітка</translation>
+        <translation>网格</translation>
     </message>
     <message>
         <location line="+30"/>
         <source>Frame</source>
-        <translation>Рамка</translation>
+        <translation>帧</translation>
     </message>
     <message>
         <location line="-24"/>
         <source>no Frame</source>
-        <translation>без рамки</translation>
+        <translation>无帧</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>DIN A5 landscape</source>
-        <translation>A5 альбомний</translation>
+        <translation>DIN A5 landscape</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>DIN A5 portrait</source>
-        <translation>A5 книжковий</translation>
+        <translation>DIN A5 portrait</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>DIN A4 landscape</source>
-        <translation>A4 альбомний</translation>
+        <translation>DIN A4 landscape</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>DIN A4 portrait</source>
-        <translation>A4 книжковий</translation>
+        <translation>DIN A4 portrait</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>DIN A3 landscape</source>
-        <translation>A3 альбомний</translation>
+        <translation>DIN A3 landscape</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>DIN A3 portrait</source>
-        <translation>A3 книжковий</translation>
+        <translation>DIN A3 portrait</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Letter landscape</source>
-        <translation type="unfinished"></translation>
+        <translation>Letter landscape</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Letter portrait</source>
-        <translation type="unfinished"></translation>
+        <translation>Letter portrait</translation>
     </message>
     <message>
         <location line="-45"/>
         <source>Octave Script:</source>
-        <translation type="unfinished"></translation>
+        <translation>Octave脚本：</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>run script after simulation</source>
-        <translation type="unfinished"></translation>
+        <translation>仿真完成后运行脚本</translation>
     </message>
 </context>
 <context>
@@ -18284,12 +18283,12 @@ are included in the search.</source>
         <location line="+5"/>
         <location line="+15"/>
         <source>Abort simulation</source>
-        <translation>Перервати моделювання</translation>
+        <translation>终止仿真</translation>
     </message>
     <message>
         <location line="+546"/>
         <source>Close window</source>
-        <translation>Закрити вікно</translation>
+        <translation>关闭窗口</translation>
     </message>
     <message>
         <source>Starting new simulation on </source>
@@ -18308,12 +18307,12 @@ are included in the search.</source>
     <message>
         <location line="-534"/>
         <source>ERROR: Simulator is still running!</source>
-        <translation>ПОМИЛКА: Моделювання ще працює!</translation>
+        <translation>错误：仿真还在运行!</translation>
     </message>
     <message>
         <location line="+443"/>
         <source>ERROR: Cannot start simulator!</source>
-        <translation>ПОМИЛКА: Неможливо запустити моделювання!</translation>
+        <translation>错误：不能启动仿真!</translation>
     </message>
     <message>
         <source>
@@ -18360,100 +18359,100 @@ Errors:
     <message>
         <location line="-434"/>
         <source>ERROR: Cannot write netlist file!</source>
-        <translation>ПОМИЛКА: Неможливо записати файл схеми!</translation>
+        <translation>错误：不能写网表文件!</translation>
     </message>
     <message>
         <location line="+94"/>
         <source>ERROR: Cannot start QucsConv!</source>
-        <translation>ПОМИЛКА: Неможливо запустити програму QucsConv!</translation>
+        <translation>错误：不能启动QucsConv!</translation>
     </message>
     <message>
         <location line="-97"/>
         <source>creating netlist... </source>
-        <translation>створення схеми... </translation>
+        <translation>生成网表... </translation>
     </message>
     <message>
         <location line="+77"/>
         <source>ERROR: Cannot open SPICE file &quot;%1&quot;.</source>
-        <translation>ПОМИЛКА: Неможливо відкрити SPICE-файл &quot;%1&quot;.</translation>
+        <translation>错误：不能打开SPICE文件 &quot;%1&quot;.</translation>
     </message>
     <message>
         <location line="-92"/>
         <source>Starting new simulation on %1 at %2</source>
-        <translation>Почати нове моделювання на  %1 в %2</translation>
+        <translation> %1 в %2开始新仿真</translation>
     </message>
     <message>
         <location line="+215"/>
         <location line="+101"/>
         <source>done.</source>
-        <translation>зроблено.</translation>
+        <translation>完成.</translation>
     </message>
     <message>
         <location line="+20"/>
         <location line="+24"/>
         <source>Error</source>
-        <translation type="unfinished">Помилка</translation>
+        <translation>错误</translation>
     </message>
     <message>
         <location line="-24"/>
         <location line="+24"/>
         <source>Cannot read netlist!</source>
-        <translation type="unfinished"></translation>
+        <translation>不能读网表文件！</translation>
     </message>
     <message>
         <location line="+81"/>
         <source>ERROR: Program not found: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>错误：程序没有找到%1</translation>
     </message>
     <message>
         <location line="+110"/>
         <source>Simulation ended on %1 at %2</source>
-        <translation>Моделювання закінчилося на %1 в %2</translation>
+        <translation> %1 в %2完成仿真</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Ready.</source>
-        <translation>Готово.</translation>
+        <translation>预备.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Errors occurred during simulation on %1 at %2</source>
-        <translation>Під час моделювання сталися помилки на %1 в %2</translation>
+        <translation>在运行仿真 %1 в %2时发生错误</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Aborted.</source>
-        <translation>Перервано.</translation>
+        <translation>终止.</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Output:
 -------</source>
-        <translation>Результат:
+        <translation>输出:
 ----------</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Errors:
 -------</source>
-        <translation>Помилки:
+        <translation>错误:
 --------</translation>
     </message>
     <message>
         <location line="-315"/>
         <location line="+7"/>
         <source>ERROR: Cannot create VHDL directory &quot;%1&quot;!</source>
-        <translation type="unfinished"></translation>
+        <translation>错误：不能创建VHDL目录&quot;%1&quot;!</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>ERROR: Cannot create &quot;%1&quot;!</source>
-        <translation type="unfinished"></translation>
+        <translation>错误：无法创建&quot;%1&quot;!</translation>
     </message>
     <message>
         <location line="-240"/>
         <source>ERROR: Cannot simulate a text file!</source>
-        <translation type="unfinished"></translation>
+        <translation>错误：无法仿真一个文本文件！</translation>
     </message>
 </context>
 <context>
@@ -18461,74 +18460,74 @@ Errors:
     <message>
         <location filename="components/spicedialog.cpp" line="+66"/>
         <source>Name:</source>
-        <translation>Ім&apos;я:</translation>
+        <translation>名称:</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>File:</source>
-        <translation>Файл:</translation>
+        <translation>文件:</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Browse</source>
-        <translation>Перегляд</translation>
+        <translation>浏览</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Edit</source>
-        <translation>Редагувати</translation>
+        <translation>编辑</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>Add &gt;&gt;</source>
-        <translation>Додати &gt;&gt;</translation>
+        <translation>添加&gt;&gt;</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&lt;&lt; Remove</source>
-        <translation>&lt;&lt; Видалити</translation>
+        <translation>&lt;&lt; 删除</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Component ports:</source>
-        <translation>Вивиди компонента:</translation>
+        <translation>部件端口:</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>OK</source>
-        <translation>Гаразд</translation>
+        <translation>确定</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Apply</source>
-        <translation>Застосувати</translation>
+        <translation>应用</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Cancel</source>
-        <translation>Скасувати</translation>
+        <translation>取消</translation>
     </message>
     <message>
         <location line="+129"/>
         <source>All Files</source>
-        <translation>Усі файли</translation>
+        <translation>所有文件</translation>
     </message>
     <message>
         <location line="-3"/>
         <source>Select a file</source>
-        <translation>Вибір файла</translation>
+        <translation>选择一个文件</translation>
     </message>
     <message>
         <location line="-178"/>
         <source>show file name in schematic</source>
-        <translation>показати ім&apos;я файла у схемі</translation>
+        <translation>在电路图中显示文件名</translation>
     </message>
     <message>
         <location line="+279"/>
         <location line="+10"/>
         <location line="+48"/>
         <source>Error</source>
-        <translation>Помилка</translation>
+        <translation>错误</translation>
     </message>
     <message>
         <source>Cannot execute</source>
@@ -18538,7 +18537,7 @@ Errors:
         <location line="-71"/>
         <location line="+59"/>
         <source>Info</source>
-        <translation>Інформація</translation>
+        <translation>信息</translation>
     </message>
     <message>
         <source>Converting ...</source>
@@ -18547,58 +18546,58 @@ Errors:
     <message>
         <location line="+22"/>
         <source>QucsConv Error</source>
-        <translation>Помилка QucsConv</translation>
+        <translation>QucsConv错误</translation>
     </message>
     <message>
         <location line="-167"/>
         <source>SPICE netlist</source>
-        <translation>схема SPICE</translation>
+        <translation>SPICE网表文件</translation>
     </message>
     <message>
         <location line="-217"/>
         <source>Edit SPICE Component Properties</source>
-        <translation>Редагувати властивості компонента SPICE</translation>
+        <translation>编辑SPICE部件属性</translation>
     </message>
     <message>
         <location line="+59"/>
         <source>SPICE net nodes:</source>
-        <translation>мережеві вузли SPICE:</translation>
+        <translation>SPICE 网络节点:</translation>
     </message>
     <message>
         <location line="-19"/>
         <source>include SPICE simulations</source>
-        <translation>включити моделювання SPICE</translation>
+        <translation>包含SPICE仿真</translation>
     </message>
     <message>
         <location line="+323"/>
         <source>Converting SPICE file &quot;%1&quot;.</source>
-        <translation>Конвертація SPICE файлу &quot;%1&quot;.</translation>
+        <translation>转换SPICE文件&quot;%1&quot;.</translation>
     </message>
     <message>
         <location line="-313"/>
         <source>preprocessor</source>
-        <translation>прекомпілятор</translation>
+        <translation>预处理</translation>
     </message>
     <message>
         <location line="+254"/>
         <source>Preprocessing SPICE file &quot;%1&quot;.</source>
-        <translation>Прекомпіляція SPICE файлу &quot;%1&quot;.</translation>
+        <translation>预处理SPICE文件&quot;%1&quot;.</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Cannot save preprocessed SPICE file &quot;%1&quot;.</source>
-        <translation>Неможливо записати прекомпілений SPICE файл &quot;%1&quot;.</translation>
+        <translation>不能保存预处理的SPICE文件 &quot;%1&quot;.</translation>
     </message>
     <message>
         <location line="+10"/>
         <location line="+48"/>
         <source>Cannot execute &quot;%1&quot;.</source>
-        <translation>Неможливо виконати &quot;%1&quot;.</translation>
+        <translation>不能运行 &quot;%1&quot;.</translation>
     </message>
     <message>
         <location line="-28"/>
         <source>SPICE Preprocessor Error</source>
-        <translation>Помилка Препроцесора SPICE</translation>
+        <translation>SPICE预处理错误</translation>
     </message>
 </context>
 <context>
@@ -18606,12 +18605,12 @@ Errors:
     <message>
         <location filename="dialogs/sweepdialog.cpp" line="+80"/>
         <source>Bias Points</source>
-        <translation>Робочі точки</translation>
+        <translation>偏置点</translation>
     </message>
     <message>
         <location line="+30"/>
         <source>Close</source>
-        <translation>Закрити</translation>
+        <translation>关闭</translation>
     </message>
 </context>
 <context>
@@ -18619,12 +18618,12 @@ Errors:
     <message>
         <location filename="../qucs-lib/symbolwidget.cpp" line="+45"/>
         <source>Symbol:</source>
-        <translation>Позначення:</translation>
+        <translation>符号:</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>! Drag n&apos;Drop me !</source>
-        <translation>! Перетягни мене !</translation>
+        <translation>! 托放!</translation>
     </message>
 </context>
 <context>
@@ -18644,72 +18643,76 @@ Errors:
     <message>
         <location filename="textdoc.cpp" line="+178"/>
         <source>Edit Text Symbol</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑文字符号</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Edits the symbol for this text document</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Edit Text Symbol
 
 Edits the symbol for this text document</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+3"/>
         <source>VHDL entity</source>
-        <translation type="unfinished">Об&apos;єкт VHDL</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Inserts skeleton of VHDL entity</source>
-        <translation type="unfinished">Вставляє каркас об&apos;єкта VHDL</translation>
+        <translation>插入VHDL entity</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>VHDL entity
 
 Inserts the skeleton of a VHDL entity</source>
-        <translation type="unfinished">Об&apos;єкт VHDL
+        <translation>VHDL entity
 
-Вставляє каркас об&apos;єкту VHDL</translation>
+插入VHDL entity</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Verilog module</source>
-        <translation type="unfinished"></translation>
+        <translation>Verilog模块</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Inserts skeleton of Verilog module</source>
-        <translation type="unfinished"></translation>
+        <translation>插入Verilog 函数</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Verilog module
 
 Inserts the skeleton of a Verilog module</source>
-        <translation type="unfinished"></translation>
+        <translation>Verilog 模块
+
+插入Verilog模块</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Octave function</source>
-        <translation type="unfinished"></translation>
+        <translation>Octave函数</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Inserts skeleton of Octave function</source>
-        <translation type="unfinished"></translation>
+        <translation>插入Octave函数</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Octave function
 
 Inserts the skeleton of a Octave function</source>
-        <translation type="unfinished"></translation>
+        <translation>Octave函数
+
+插入Octave函数</translation>
     </message>
 </context>
 <context>
@@ -18717,7 +18720,7 @@ Inserts the skeleton of a Octave function</source>
     <message>
         <location filename="dialogs/vasettingsdialog.cpp" line="+43"/>
         <source>Document Settings</source>
-        <translation type="unfinished">Налаштування документа</translation>
+        <translation>文件设置</translation>
     </message>
     <message>
         <source>Simulation</source>
@@ -18734,12 +18737,12 @@ Inserts the skeleton of a Octave function</source>
     <message>
         <location line="+107"/>
         <source>Ok</source>
-        <translation type="unfinished">Гаразд</translation>
+        <translation>确定</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Cancel</source>
-        <translation type="unfinished">Скасувати</translation>
+        <translation>取消</translation>
     </message>
     <message>
         <source>Error</source>
@@ -18748,77 +18751,77 @@ Inserts the skeleton of a Octave function</source>
     <message>
         <location line="-100"/>
         <source>Code Creation Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>生成代码设置</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Browse</source>
-        <translation type="unfinished">Перегляд</translation>
+        <translation>浏览</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Output file:</source>
-        <translation type="unfinished"></translation>
+        <translation>输出文件：</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Recreate</source>
-        <translation type="unfinished"></translation>
+        <translation>重新生成</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Icon description:</source>
-        <translation type="unfinished"></translation>
+        <translation>图标描述：</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Description:</source>
-        <translation type="unfinished">Опис:</translation>
+        <translation>描述:</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>unspecified device</source>
-        <translation type="unfinished"></translation>
+        <translation>未确定的设备</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>NPN/PNP polarity</source>
-        <translation type="unfinished"></translation>
+        <translation>NPN/PNP极性</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>NMOS/PMOS polarity</source>
-        <translation type="unfinished"></translation>
+        <translation>NMOS/PMOS极性</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>analog only</source>
-        <translation type="unfinished"></translation>
+        <translation>只有模拟电路</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>digital only</source>
-        <translation type="unfinished"></translation>
+        <translation>只有数字电路</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>both</source>
-        <translation type="unfinished"></translation>
+        <translation>都选</translation>
     </message>
     <message>
         <location line="+77"/>
         <source>PNG files</source>
-        <translation type="unfinished"></translation>
+        <translation>PNG文件</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Any file</source>
-        <translation type="unfinished"></translation>
+        <translation>任何文件</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Enter an Icon File Name</source>
-        <translation type="unfinished"></translation>
+        <translation>输入一个图标名称</translation>
     </message>
 </context>
 </TS>
