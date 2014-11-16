@@ -16261,33 +16261,33 @@ Starts standard resistor color code computation program</source>
     <message>
         <location filename="../qucs-attenuator/qucsattenuator.cpp" line="+70"/>
         <source>About Qt...</source>
-        <translation>Про програму Qt...</translation>
+        <translation>关于Qt...</translation>
     </message>
     <message>
         <location line="-22"/>
         <source>&amp;File</source>
-        <translation>&amp;Файл</translation>
+        <translation>&amp;文件</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Quit</source>
-        <translation type="unfinished">&amp;Вихід</translation>
+        <translation>&amp;退出</translation>
     </message>
     <message>
         <location line="+6"/>
         <location line="+2"/>
         <source>&amp;Help</source>
-        <translation>&amp;Довідка</translation>
+        <translation>&amp;帮助</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>&amp;About</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;关于</translation>
     </message>
     <message>
         <location line="+49"/>
         <source>Attenuation:</source>
-        <translation>Розрідження:</translation>
+        <translation>衰减:</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -16297,7 +16297,7 @@ Starts standard resistor color code computation program</source>
     <message>
         <location line="+3"/>
         <source>dB</source>
-        <translation>дБ</translation>
+        <translation>dB</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -16318,7 +16318,7 @@ Starts standard resistor color code computation program</source>
     <message>
         <location line="+14"/>
         <source>Calculate and put into Clipboard</source>
-        <translation>Розрахувати і скопіювати в буфер обміну</translation>
+        <translation>计算并复制到剪贴板</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -16335,7 +16335,7 @@ Starts standard resistor color code computation program</source>
     <message>
         <location line="+153"/>
         <source>Error: Set Attenuation less than %1 dB</source>
-        <translation type="unfinished"></translation>
+        <translation>错误：设置衰减小于%1 dB</translation>
     </message>
     <message>
         <location line="-195"/>
@@ -16344,7 +16344,7 @@ Starts standard resistor color code computation program</source>
         <location line="+7"/>
         <location line="+7"/>
         <source>Ohm</source>
-        <translation>Ом</translation>
+        <translation>欧姆</translation>
     </message>
     <message>
         <location line="-11"/>
@@ -16360,27 +16360,27 @@ Starts standard resistor color code computation program</source>
         <location line="+16"/>
         <location line="+125"/>
         <source>Result:</source>
-        <translation>Результат:</translation>
+        <translation>结果:</translation>
     </message>
     <message>
         <location line="-107"/>
         <source>Qucs Attenuator Help</source>
-        <translation type="unfinished">Довідка з Qucs Attenuator</translation>
+        <translation>Qucs衰减器帮助</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>QucsAttenuator is an attenuator synthesis program. To create a attenuator, simply enter all the input parameters and press the calculation button. Immediatly, the schematic of the attenuator is calculated and put into the clipboard. Now go to Qucs, open an schematic and press CTRL-V (paste from clipboard). The attenuator schematic can now be inserted. Have lots of fun!</source>
-        <translation type="unfinished">QucsAttenuator - це програма синтезу аттен&apos;юаторів. Для формування аттен&apos;юатора треба тільки ввести всі вхідні параметри й натиснути на кнопку розрахунку. Відразу після цього схема аттен&apos;юатора розраховується і поміститься у буфер обміну. Тепер потрібно перейти в Qucs, відкрити схемний документ й натиснути CTRL-V (вставити з буфера обміну). Схема аттен&apos;юатора тепер, можливо вставлена. Удачі!</translation>
+        <translation>QucsAttenuator 是一个衰减器综合程序</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>About Qt</source>
-        <translation>Про програму Qt</translation>
+        <translation>关于Qt</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>About...</source>
-        <translation>Про...</translation>
+        <translation>关于...</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -16388,8 +16388,7 @@ Starts standard resistor color code computation program</source>
 Attenuator synthesis program
 </source>
         <translation>
-Програма синтезу розрідження
-</translation>
+衰减器综合</translation>
     </message>
     <message>
         <source>Copyright (?) 2006 by</source>
@@ -16398,22 +16397,22 @@ Attenuator synthesis program
     <message>
         <location line="-142"/>
         <source>Topology</source>
-        <translation>Топологія</translation>
+        <translation>拓扑结构</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Input</source>
-        <translation>Вхід</translation>
+        <translation>输入</translation>
     </message>
     <message>
         <location line="+45"/>
         <source>Output</source>
-        <translation>Вихід</translation>
+        <translation>输出</translation>
     </message>
     <message>
         <location line="+159"/>
         <source>Success!</source>
-        <translation>Успішно!</translation>
+        <translation>成功！</translation>
     </message>
     <message>
         <source>Error: Set Attenuation more than %1 dB</source>
@@ -16431,76 +16430,76 @@ Attenuator synthesis program
     <message>
         <location filename="../qucs-edit/qucsedit.cpp" line="+57"/>
         <source>About</source>
-        <translation>Про</translation>
+        <translation>关于</translation>
     </message>
     <message>
         <location line="+146"/>
         <source>&amp;Discard</source>
-        <translation>&amp;Закрити без збереження</translation>
+        <translation>&amp;放弃</translation>
     </message>
     <message>
         <location line="-93"/>
         <source>About...</source>
-        <translation>Про...</translation>
+        <translation>关于...</translation>
     </message>
     <message>
         <location line="+32"/>
         <location line="+39"/>
         <source>Error</source>
-        <translation>Помилка</translation>
+        <translation>错误</translation>
     </message>
     <message>
         <location line="-46"/>
         <source>Enter a Document Name</source>
-        <translation>Введіть ім&apos;я документа</translation>
+        <translation>输入文件名称</translation>
     </message>
     <message>
         <location line="-91"/>
         <location line="+147"/>
         <source>File: </source>
-        <translation>Файл: </translation>
+        <translation>文件:</translation>
     </message>
     <message>
         <location line="-131"/>
         <source>Quit</source>
-        <translation>Вихід</translation>
+        <translation>退出</translation>
     </message>
     <message>
         <location line="+63"/>
         <source>Enter a Filename</source>
-        <translation>Введіть ім&apos;я файлу</translation>
+        <translation>输入文件名</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Cannot write file: </source>
-        <translation>Неможливо записати файл: </translation>
+        <translation>不能写文件: </translation>
     </message>
     <message>
         <location line="+39"/>
         <source>Cannot read file: </source>
-        <translation>Неможливо прочитати файл: </translation>
+        <translation>无法读取文件:</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>Closing document</source>
-        <translation>Закриття документа</translation>
+        <translation>关闭文件</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>The text contains unsaved changes!
 </source>
-        <translation>У тексті є незбережені зміни! 
+        <translation>包含未保存变更! 
 </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Do you want to save the changes?</source>
-        <translation>Хочете зберегти зміни?</translation>
+        <translation>保存变更?</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Save</source>
-        <translation>Збе&amp;регти</translation>
+        <translation>&amp;保存</translation>
     </message>
     <message>
         <location line="-91"/>
@@ -16508,8 +16507,7 @@ Attenuator synthesis program
 Very simple text editor for Qucs
 </source>
         <translation>
-Простий текстовий редактор для Qucs
-</translation>
+简单的Qucs文本编辑器</translation>
     </message>
     <message>
         <source>Copyright (?) 2004, 2005 by Michael Margraf
@@ -16520,7 +16518,7 @@ Very simple text editor for Qucs
     <message>
         <location line="+91"/>
         <source>&amp;Cancel</source>
-        <translation>&amp;Скасувати</translation>
+        <translation>&amp;取消</translation>
     </message>
     <message>
         <source>Line: %1 - Column: %2</source>
@@ -16530,7 +16528,7 @@ Very simple text editor for Qucs
         <location line="-148"/>
         <location line="+49"/>
         <source>Line: %1  -  Column: %2</source>
-        <translation>Рядок: %1  -  Колонка: %2</translation>
+        <translation>行: %1  -  列 %2</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -16545,89 +16543,90 @@ Very simple text editor for Qucs
     <message>
         <location filename="../qucs-filter/qucsfilter.cpp" line="+59"/>
         <source>E&amp;xit</source>
-        <translation>В&amp;ихід</translation>
+        <translation>&amp;退出</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Help...</source>
-        <translation>Довідка...</translation>
+        <translation>帮助...</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>&amp;About QucsFilter...</source>
-        <translation>&amp;Про програму QucsFilter...</translation>
+        <translation>&amp;关于QucsFilter...</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>About Qt...</source>
-        <translation>Про програму Qt...</translation>
+        <translation>关于Qt...</translation>
     </message>
     <message>
         <location line="-17"/>
         <source>&amp;File</source>
-        <translation>&amp;Файл</translation>
+        <translation>&amp;文件</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>&amp;Help</source>
-        <translation>&amp;Довідка</translation>
+        <translation>&amp;帮助</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>Filter type:</source>
-        <translation>Тип фільтра:</translation>
+        <translation>滤波器类型:</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Filter class:</source>
-        <translation>Клас фільтра:</translation>
+        <translation>滤波器类型:</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Low pass</source>
-        <translation>Низькочастотний</translation>
+        <translation>低通滤波器</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>High pass</source>
-        <translation>Високочастотний</translation>
+        <translation>高通滤波器</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Order:</source>
-        <translation>Порядок:</translation>
+        <translation>阶数:</translation>
     </message>
     <message>
         <location line="+6"/>
         <location line="+302"/>
         <source>Corner frequency:</source>
-        <translation>Частота зрізу:</translation>
+        <translatorcomment>不确定这是啥意思，暂时按照字面意思翻译</translatorcomment>
+        <translation>角频率:</translation>
     </message>
     <message>
         <location line="-289"/>
         <source>Stop frequency:</source>
-        <translation>Кінцева частота:</translation>
+        <translation>终止频率:</translation>
     </message>
     <message>
         <location line="+26"/>
         <location line="+275"/>
         <source>Pass band ripple:</source>
-        <translation>Нерівномірність в смузі пропускання:</translation>
+        <translation>通带纹波:</translation>
     </message>
     <message>
         <location line="-259"/>
         <source>Impedance:</source>
-        <translation>Повний опір:</translation>
+        <translation>阻抗:</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Calculate and put into Clipboard</source>
-        <translation>Розрахувати і скопіювати в буфер обміну</translation>
+        <translation>计算并复制到剪贴板</translation>
     </message>
     <message>
         <location line="+37"/>
         <source>About...</source>
-        <translation>Про...</translation>
+        <translation>关于...</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -16635,88 +16634,88 @@ Very simple text editor for Qucs
 Filter synthesis program
 </source>
         <translation>
-Програма синтезу фільтрів
+滤波器综合
 </translation>
     </message>
     <message>
         <location line="+12"/>
         <source>About Qt</source>
-        <translation>Про програму Qt</translation>
+        <translation>关于Qt</translation>
     </message>
     <message>
         <location line="+13"/>
         <location line="+101"/>
         <location line="+18"/>
         <source>Result:</source>
-        <translation>Результат:</translation>
+        <translation>结果:</translation>
     </message>
     <message>
         <location line="-9"/>
         <source>Result: --</source>
-        <translation>Результат: --</translation>
+        <translation>结果: --</translation>
     </message>
     <message>
         <location line="-8"/>
         <location line="+17"/>
         <source>Successful</source>
-        <translation>Успішно</translation>
+        <translation>成功</translation>
     </message>
     <message>
         <location line="-261"/>
         <source>Band pass</source>
-        <translation>Смуговий</translation>
+        <translation>带通</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Band stop</source>
-        <translation>Режекторний</translation>
+        <translation>带阻</translation>
     </message>
     <message>
         <location line="+142"/>
         <location line="+1"/>
         <source>Error</source>
-        <translation>Помилка</translation>
+        <translation>错误</translation>
     </message>
     <message>
         <location line="+74"/>
         <source>Stop frequency must be greater than start frequency.</source>
-        <translation>Кінцева частота повинна перевищувати початкову.</translation>
+        <translation>终止频率必须大于起始频率.</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Filter order must not be less than two.</source>
-        <translation>Порядок фільтра не може бути менше двох.</translation>
+        <translation>滤波器阶数必须大于等2.</translation>
     </message>
     <message>
         <location line="+99"/>
         <source>Start frequency:</source>
-        <translation>Початкова частота:</translation>
+        <translation>起始频率:</translation>
     </message>
     <message>
         <location line="-95"/>
         <source>Bessel filter order must not be greater than 19.</source>
-        <translation>Порядок фільтра Бесселя може бути максимум 19.</translation>
+        <translation>Bessel滤波器阶数不能大于19.</translation>
     </message>
     <message>
         <location line="-188"/>
         <location line="+287"/>
         <source>Stop band frequency:</source>
-        <translation>Частота режекторного фільтра:</translation>
+        <translation>截止频率:</translation>
     </message>
     <message>
         <location line="-266"/>
         <source>Stop band attenuation:</source>
-        <translation>Придушення режекторного фільтра:</translation>
+        <translation>阻带损耗:</translation>
     </message>
     <message>
         <location line="+270"/>
         <source>Pass band frequency:</source>
-        <translation>Частота смугового фільтра:</translation>
+        <translation>通带频率:</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Pass band attenuation:</source>
-        <translation>Послаблення смугового фільтра:</translation>
+        <translation>通带损耗:</translation>
     </message>
     <message>
         <source>Copyright (?) 2005, 2006 by</source>
@@ -16733,52 +16732,52 @@ Filter synthesis program
     <message>
         <location filename="../qucs-help/qucshelp.cpp" line="+50"/>
         <source>Qucs Help System</source>
-        <translation>Довідкова система Qucs</translation>
+        <translation>Qucs帮助系统</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>&amp;Quit</source>
-        <translation>&amp;Вихід</translation>
+        <translation>&amp;退出</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Back</source>
-        <translation>&amp;Назад</translation>
+        <translation>&amp;后退</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Forward</source>
-        <translation>&amp;Вперед</translation>
+        <translation>&amp;前进</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Home</source>
-        <translation>На &amp;початок</translation>
+        <translation>&amp;根目录</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Previous</source>
-        <translation>&amp;Попередній</translation>
+        <translation>&amp;上一个</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Next</source>
-        <translation>&amp;Наступний</translation>
+        <translation>&amp;下一个</translation>
     </message>
     <message>
         <location line="+70"/>
         <source>Home</source>
-        <translation>На початок</translation>
+        <translation>根目录</translation>
     </message>
     <message>
         <location line="-69"/>
         <source>&amp;Table of Contents</source>
-        <translation>&amp;Таблиця змісту</translation>
+        <translation>&amp;目录</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Enables/disables the table of contents</source>
-        <translation>включає/виключає зміст</translation>
+        <translation>打开/关闭目录</translation>
     </message>
     <message>
         <source>Table of Contents
@@ -16789,36 +16788,36 @@ Enables/disables the table of contents</source>
     <message>
         <location line="+41"/>
         <source>&amp;About Qt</source>
-        <translation>&amp;Про програму Qt</translation>
+        <translation>&amp;关于Qt</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;File</source>
-        <translation>&amp;Файл</translation>
+        <translation>&amp;文件</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;View</source>
-        <translation>&amp;Вид</translation>
+        <translation>&amp;查看</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Help</source>
-        <translation>&amp;Довідка</translation>
+        <translation>&amp;帮助</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Contents</source>
-        <translation>Зміст</translation>
+        <translation>内容</translation>
     </message>
     <message>
         <location line="-50"/>
         <source>Table of Contents
 
 Enables/disables the table of contents</source>
-        <translation>Зміст
+        <translation>目录
 
-включає/виключає зміст</translation>
+打开/关闭目录</translation>
     </message>
 </context>
 <context>
@@ -16826,7 +16825,7 @@ Enables/disables the table of contents</source>
     <message>
         <location filename="../qucs-lib/qucslib.cpp" line="+66"/>
         <source>&amp;Quit</source>
-        <translation>&amp;Вихід</translation>
+        <translation>&amp;退出</translation>
     </message>
     <message>
         <source>Help</source>
@@ -16836,53 +16835,53 @@ Enables/disables the table of contents</source>
         <location line="+10"/>
         <location line="+2"/>
         <source>&amp;Help</source>
-        <translation>&amp;Довідка</translation>
+        <translation>&amp;帮助</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>About</source>
-        <translation>Про</translation>
+        <translation>关于</translation>
     </message>
     <message>
         <location line="-23"/>
         <source>&amp;File</source>
-        <translation>&amp;Файл</translation>
+        <translation>&amp;文件</translation>
     </message>
     <message>
         <location line="+42"/>
         <source>Component Selection</source>
-        <translation>Виділення компоненти</translation>
+        <translation>器件选择</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Search...</source>
-        <translation>Знайти...</translation>
+        <translation>查找...</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Component</source>
-        <translation>Компонент</translation>
+        <translation type="unfinished">器件</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Copy to clipboard</source>
-        <translation>Скопіювати в буфер обміну</translation>
+        <translation>拷贝到剪贴板</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Show Model</source>
-        <translation>Показати модель</translation>
+        <translation>显示模型</translation>
     </message>
     <message>
         <location line="+69"/>
         <source>About...</source>
-        <translation>Про...</translation>
+        <translation>关于...</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Library Manager for Qucs
 </source>
-        <translation>Програма управління бібліотеками для Qucs
+        <translation>Qucs器件库管理
 </translation>
     </message>
     <message>
@@ -16904,12 +16903,12 @@ Enables/disables the table of contents</source>
         <location line="+7"/>
         <location line="+7"/>
         <source>Error</source>
-        <translation>Помилка</translation>
+        <translation>错误</translation>
     </message>
     <message>
         <location line="-83"/>
         <source>Cannot open &quot;%1&quot;.</source>
-        <translation>Неможливо відкрити файл &quot;%1&quot;.</translation>
+        <translation>打不开 &quot;%1&quot;.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -16919,32 +16918,32 @@ Enables/disables the table of contents</source>
         <location line="+7"/>
         <location line="+7"/>
         <source>Library is corrupt.</source>
-        <translation>Бібліотечний файл пошкоджений.</translation>
+        <translation>器件库损坏.</translation>
     </message>
     <message>
         <location line="-122"/>
         <source>Search result</source>
-        <translation>Результат пошуку</translation>
+        <translation>查找结果</translation>
     </message>
     <message>
         <location line="+69"/>
         <source>Result</source>
-        <translation>Результат</translation>
+        <translation>结果</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>No appropriate component found.</source>
-        <translation>Відповідний компонент не знайдено.</translation>
+        <translation>没有找到合适的器件.</translation>
     </message>
     <message>
         <location line="-298"/>
         <source>Manage User &amp;Libraries...</source>
-        <translation>Управління &amp;бібліотеками користувача...</translation>
+        <translation>管理用户的&amp;器件库...</translation>
     </message>
     <message>
         <location line="+194"/>
         <source>A more comfortable way: The component can also be placed onto the schematic by using Drag n&apos;Drop.</source>
-        <translation>Більше зручний спосіб: Компонент також може бути вставлено в схему з допомогою перетягування.</translation>
+        <translation>一种更简单的办法：器件可以通过鼠标拖拽添加到电路图.</translation>
     </message>
     <message>
         <location line="-51"/>
@@ -16956,22 +16955,22 @@ Enables/disables the table of contents</source>
     <message>
         <location line="+42"/>
         <source>QucsLib is a program to manage Qucs component libraries. On the left side of the application window the available libraries can be browsed to find the wanted component. By clicking on the component name its description can be seen on the right side. The selected component is transported to the Qucs application by clicking on the button &quot;Copy to Clipboard&quot;. Being back in the schematic window the component can be inserted by pressing CTRL-V  (paste from clipboard).</source>
-        <translation>QucsLib - це програма для управління бібліотеками компонентів Qucs. У лівій стороні вікна програми можна переглядати наявні бібліотеки, знаходячи потрібний компонент. Натисканням лівої клавіші миші на імені компонента можна одержати його опис у правому боці вікна. Виділений компонент можна перенести у програму Qucs натисканням кнопки &quot;Скопіювати в буфер обміну&quot;. Якщо повернутися у вікно редагування схеми, цей компонент можливо вставлено натисканням CTRL-V  (вставка з буферу обміну).</translation>
+        <translation>QucsLib是一个Qucs器件库管理程序.</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>QucsLib Help</source>
-        <translation>Довідка по QucsLib</translation>
+        <translation>QucsLib帮助</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>Model</source>
-        <translation>Модель</translation>
+        <translation>模型</translation>
     </message>
     <message>
         <location line="+79"/>
         <source>Search Library Component</source>
-        <translation>Пошук компонентів бібліотек</translation>
+        <translation>查找器件库</translation>
     </message>
 </context>
 <context>
@@ -16979,305 +16978,305 @@ Enables/disables the table of contents</source>
     <message>
         <location filename="dialogs/qucssettingsdialog.cpp" line="+49"/>
         <source>Edit Qucs Properties</source>
-        <translation>Редагувати налаштування Qucs</translation>
+        <translation>设置Qucs</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Document Background Color:</source>
-        <translation>Колір фону документа:</translation>
+        <translation>文件背景颜色:</translation>
     </message>
     <message>
         <location line="+187"/>
         <source>Edit the standard paths and external applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Edit the standard paths and external applications</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Qucs Home:</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+62"/>
         <source>Locations</source>
-        <translation type="unfinished"></translation>
+        <translation>位置</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>OK</source>
-        <translation>Гаразд</translation>
+        <translation>确定</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Apply</source>
-        <translation>Застосувати</translation>
+        <translation>应用</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Cancel</source>
-        <translation>Скасувати</translation>
+        <translation>取消</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Default Values</source>
-        <translation>Значення за замовчуванням</translation>
+        <translation>默认值</translation>
     </message>
     <message>
         <location line="-276"/>
         <source>Font (set after reload):</source>
-        <translation>Шрифт (набере чинності після перезавантаження):</translation>
+        <translation>字体(重新加载后生效):</translation>
     </message>
     <message>
         <location line="+36"/>
         <source>maximum undo operations:</source>
-        <translation>максимальна кількість відмін:</translation>
+        <translation>最大撤消次数:</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>text editor:</source>
-        <translation>текстовий редактор:</translation>
+        <translation>文本编辑器:</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Settings</source>
-        <translation>Налаштування</translation>
+        <translation>设置</translation>
     </message>
     <message>
         <location line="+85"/>
         <source>Suffix</source>
-        <translation>Розширення</translation>
+        <translation>后缀</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Program</source>
-        <translation>Програма</translation>
+        <translation>程序</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Suffix:</source>
-        <translation>Розширення:</translation>
+        <translation>后缀:</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Program:</source>
-        <translation>Програма:</translation>
+        <translation>程序:</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Remove</source>
-        <translation>Видалити</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>File Types</source>
-        <translation>Типи файлів</translation>
+        <translation>文件类型</translation>
     </message>
     <message>
         <location line="-56"/>
         <source>Register filename extensions here in order to
 open files with an appropriate program.</source>
-        <translation>Зареєструйте тут розширення імен файлів, щоб вони відкривалися відповідною програмою.</translation>
+        <translation>注册适当的文件后缀名以便能用正确的程序打开.</translation>
     </message>
     <message>
         <location line="+48"/>
         <source>Set</source>
-        <translation>Застосувати</translation>
+        <translation>设置</translation>
     </message>
     <message>
         <location line="+154"/>
         <source>Error</source>
-        <translation>Помилка</translation>
+        <translation>错误</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>This suffix is already registered!</source>
-        <translation>Це розширення вже зареєстровано!</translation>
+        <translation>这个后缀已经注册!</translation>
     </message>
     <message>
         <location line="-321"/>
         <source>Language (set after reload):</source>
-        <translation>Мова (набере чинності після перезавантаження):</translation>
+        <translation>语言(重新加载生效):</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>system language</source>
-        <translation>системна мова</translation>
+        <translation>系统语言</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>English</source>
-        <translation>Англійський</translation>
+        <translation>English</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>German</source>
-        <translation>Німецький</translation>
+        <translation>German</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>French</source>
-        <translation>Французький</translation>
+        <translation>French</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Spanish</source>
-        <translation>Іспанський</translation>
+        <translation>Spanish</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Italian</source>
-        <translation>Італійський</translation>
+        <translation>Italian</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Polish</source>
-        <translation>Польський</translation>
+        <translation>Polish</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Japanese</source>
-        <translation>Японський</translation>
+        <translation>Japanese</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>Romanian</source>
-        <translation>Румунський</translation>
+        <translation>Romanian</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Hebrew</source>
-        <translation>Єврит</translation>
+        <translation>Hebrew</translation>
     </message>
     <message>
         <location line="-2"/>
         <source>Swedish</source>
-        <translation>Шведський</translation>
+        <translation>Swedish</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Turkish</source>
-        <translation>Турецький</translation>
+        <translation>Turkish</translation>
     </message>
     <message>
         <location line="-4"/>
         <source>Hungarian</source>
-        <translation>Угорський</translation>
+        <translation>Hungarian</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Portuguese-BR</source>
         <oldsource>Portuguese</oldsource>
-        <translation type="unfinished">Португальський</translation>
+        <translation>Португальський</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Portuguese-PT</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Ukrainian</source>
-        <translation>Український</translation>
+        <translation>Ukrainian</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Russian</source>
-        <translation>Російський</translation>
+        <translation>Russian</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Set to qucs, qucsedit or the path to your favorite text editor.</source>
-        <translation type="unfinished"></translation>
+        <translation>为Qucs设置你喜欢的文本编辑器.</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Load documents from future versions </source>
-        <translation type="unfinished"></translation>
+        <translation>Load documents from future versions</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Colors for Syntax Highlighting:</source>
-        <translation>Кольори для підсвічування синтаксису:</translation>
+        <translation>语法高亮颜色:</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Comment</source>
-        <translation>Коментар</translation>
+        <translation>注释</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>String</source>
-        <translation>Рядок</translation>
+        <translation>字符串</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Integer Number</source>
-        <translation>Ціле число</translation>
+        <translation>整数</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Real Number</source>
-        <translation>Дійсне число</translation>
+        <translation>实数</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Character</source>
-        <translation>Символ</translation>
+        <translation>字符</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Data Type</source>
-        <translation>тип даних</translation>
+        <translation>数据类型</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Attribute</source>
-        <translation>Атрибут</translation>
+        <translation>属性</translation>
     </message>
     <message>
         <location line="+101"/>
         <source>AdmsXml Path:</source>
-        <translation type="unfinished"></translation>
+        <translation>AdmsXml路径：</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>ASCO Path:</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Octave Path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Octave路径：</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Subcircuit Search Path List</source>
-        <translation type="unfinished"></translation>
+        <translation>子电路查找路径列表</translation>
     </message>
     <message>
         <location line="+409"/>
         <source>Select the admsXml bin directory</source>
-        <translation type="unfinished"></translation>
+        <translation>选择admsXml路径</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Select the ASCO bin directory</source>
-        <translation type="unfinished"></translation>
+        <translation>选择ASCO路径</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Select the octave bin directory</source>
-        <translation type="unfinished"></translation>
+        <translation>选择octave路径</translation>
     </message>
     <message>
         <location line="-27"/>
         <source>Select the home directory</source>
-        <translation type="unfinished"></translation>
+        <translation>选择工作路径</translation>
     </message>
     <message>
         <location line="+41"/>
         <location line="+19"/>
         <source>Select a directory</source>
-        <translation type="unfinished"></translation>
+        <translation>选择一个路径</translation>
     </message>
     <message>
         <source>VHDL Editor</source>
@@ -17286,42 +17285,42 @@ open files with an appropriate program.</source>
     <message>
         <location line="-663"/>
         <source>Czech</source>
-        <translation>Чеський</translation>
+        <translation>Czech</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Catalan</source>
-        <translation>Каталанский</translation>
+        <translation>Catalan</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>start wiring when clicking open node:</source>
-        <translation>почати провідник при виборі відкриття вузла:</translation>
+        <translation>单击开路节点时连线:</translation>
     </message>
     <message>
         <location line="-15"/>
         <source>Arabic</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Kazakh</source>
-        <translation type="unfinished"></translation>
+        <translation>Kazakh</translation>
     </message>
     <message>
         <location line="+75"/>
         <source>Directive</source>
-        <translation type="unfinished"></translation>
+        <translation>Directive</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Task</source>
-        <translation type="unfinished"></translation>
+        <translation>任务</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Source Code Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>源代码编辑器</translation>
     </message>
 </context>
 <context>
@@ -17333,7 +17332,7 @@ open files with an appropriate program.</source>
     <message>
         <location filename="../qucs-transcalc/qucstrans.cpp" line="+264"/>
         <source>&amp;Load</source>
-        <translation>&amp;Завантажити</translation>
+        <translation>&amp;加载</translation>
     </message>
     <message>
         <source>Save</source>
@@ -17342,7 +17341,7 @@ open files with an appropriate program.</source>
     <message>
         <location line="+5"/>
         <source>&amp;Save</source>
-        <translation>Збе&amp;регти</translation>
+        <translation>&amp;保存</translation>
     </message>
     <message>
         <source>Options</source>
@@ -17351,7 +17350,7 @@ open files with an appropriate program.</source>
     <message>
         <location line="+7"/>
         <source>&amp;Options</source>
-        <translation>&amp;Параметри</translation>
+        <translation>&amp;选项</translation>
     </message>
     <message>
         <source>Quit</source>
@@ -17360,7 +17359,7 @@ open files with an appropriate program.</source>
     <message>
         <location line="+7"/>
         <source>&amp;Quit</source>
-        <translation>&amp;Вихід</translation>
+        <translation>&amp;退出</translation>
     </message>
     <message>
         <source>Copy to Clipboard</source>
@@ -17369,27 +17368,27 @@ open files with an appropriate program.</source>
     <message>
         <location line="+8"/>
         <source>&amp;Copy to Clipboard</source>
-        <translation>С&amp;копіювати в буфер обміну</translation>
+        <translation>&amp;复制到剪贴板</translation>
     </message>
     <message>
         <location line="+92"/>
         <source>Analyze</source>
-        <translation>Аналіз</translation>
+        <translation>分析</translation>
     </message>
     <message>
         <location line="-87"/>
         <source>&amp;Analyze</source>
-        <translation>Аналі&amp;з</translation>
+        <translation>&amp;分析</translation>
     </message>
     <message>
         <location line="+92"/>
         <source>Synthesize</source>
-        <translation>Синтез</translation>
+        <translation>综合</translation>
     </message>
     <message>
         <location line="-87"/>
         <source>&amp;Synthesize</source>
-        <translation>&amp;Синтез</translation>
+        <translation>&amp;综合</translation>
     </message>
     <message>
         <source>Help</source>
@@ -17399,27 +17398,27 @@ open files with an appropriate program.</source>
         <location line="+6"/>
         <location line="+1"/>
         <source>&amp;Help</source>
-        <translation>&amp;Довідка</translation>
+        <translation>&amp;帮助</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>About</source>
-        <translation>Про</translation>
+        <translation>关于</translation>
     </message>
     <message>
         <location line="-51"/>
         <source>&amp;File</source>
-        <translation>&amp;Файл</translation>
+        <translation>&amp;文件</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>&amp;Execute</source>
-        <translation>&amp;Виконати</translation>
+        <translation>&amp;执行</translation>
     </message>
     <message>
         <location line="+39"/>
         <source>Transmission Line Type</source>
-        <translation>Тип лінії передачі</translation>
+        <translation>传输线类型</translation>
     </message>
     <message>
         <source>Microstrip</source>
@@ -17428,52 +17427,52 @@ open files with an appropriate program.</source>
     <message>
         <location line="+5"/>
         <source>Rectangular Waveguide</source>
-        <translation>Прямокутний хвилевід</translation>
+        <translation>矩形波导</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Coaxial Line</source>
-        <translation>Коаксіальна лінія</translation>
+        <translation>同轴线</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Coupled Microstrip</source>
-        <translation>Пов&apos;язана мікросмугова лінія</translation>
+        <translation>耦合带线</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Substrate Parameters</source>
-        <translation>Параметри підкладки</translation>
+        <translation>悬置带线参数</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Component Parameters</source>
-        <translation>Параметри компонента</translation>
+        <translation>器件参数</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Physical Parameters</source>
-        <translation>Фізичні параметри</translation>
+        <translation>物理参数</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Derive Electrical Parameters</source>
-        <translation>Розрахунок електричних параметрів</translation>
+        <translation>器件电器参数</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Compute Physical Parameters</source>
-        <translation>Розрахунок фізичних параметрів</translation>
+        <translation>计算物理参数</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Electrical Parameters</source>
-        <translation>Електричні параметри</translation>
+        <translation>电器参数</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Calculated Results</source>
-        <translation>Результати підрахунків</translation>
+        <translation>计算结果</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -17481,7 +17480,7 @@ open files with an appropriate program.</source>
         <location line="+151"/>
         <location line="+19"/>
         <source>Ready.</source>
-        <translation>Готово.</translation>
+        <translation>预备.</translation>
     </message>
     <message>
         <location line="-689"/>
@@ -17490,7 +17489,7 @@ open files with an appropriate program.</source>
         <location line="+6"/>
         <location line="+6"/>
         <source>Conductor Losses</source>
-        <translation>Втрати в провіднику</translation>
+        <translation>传导损耗</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -17499,7 +17498,7 @@ open files with an appropriate program.</source>
         <location line="+6"/>
         <location line="+6"/>
         <source>Dielectric Losses</source>
-        <translation>Втрати в діалектрику</translation>
+        <translation>介质损耗</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -17507,39 +17506,39 @@ open files with an appropriate program.</source>
         <location line="+6"/>
         <location line="+22"/>
         <source>Skin Depth</source>
-        <translation>Товщина скін-слоя</translation>
+        <translation>趋肤厚度</translation>
     </message>
     <message>
         <location line="-16"/>
         <location line="+6"/>
         <source>TE-Modes</source>
-        <translation>Поперечно-електричні моди</translation>
+        <translation>TE模</translation>
     </message>
     <message>
         <location line="-5"/>
         <location line="+6"/>
         <source>TM-Modes</source>
-        <translation>Поперечно-магнітні моди</translation>
+        <translation>TM模</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Conductor Losses Even</source>
-        <translation>Омічні втрати для парної моди</translation>
+        <translation>偶传导损耗</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Conductor Losses Odd</source>
-        <translation>Омічні втрати для непарної моди</translation>
+        <translation>奇传导损耗</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Dielectric Losses Even</source>
-        <translation>Діалектричні втрати для парної моди</translation>
+        <translation>偶介质损耗</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Dielectric Losses Odd</source>
-        <translation>Діалектричні втрати для непарної моди</translation>
+        <translation>奇介质损耗</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -17549,7 +17548,7 @@ open files with an appropriate program.</source>
         <location line="+13"/>
         <location line="+12"/>
         <source>Relative Permittivity</source>
-        <translation>Відносна діалектрична проникність</translation>
+        <translation>相对介电常数</translation>
     </message>
     <message>
         <location line="-65"/>
@@ -17557,7 +17556,7 @@ open files with an appropriate program.</source>
         <location line="+13"/>
         <location line="+12"/>
         <source>Relative Permeability</source>
-        <translation>Відносна проникність</translation>
+        <translation>相对磁导率</translation>
     </message>
     <message>
         <location line="-65"/>
@@ -17565,13 +17564,13 @@ open files with an appropriate program.</source>
         <location line="+13"/>
         <location line="+39"/>
         <source>Height of Substrate</source>
-        <translation>Висота підкладки</translation>
+        <translation>介质厚度</translation>
     </message>
     <message>
         <location line="-65"/>
         <location line="+66"/>
         <source>Height of Box Top</source>
-        <translation>Висота кришки</translation>
+        <translation>空气盒高度</translation>
     </message>
     <message>
         <location line="-65"/>
@@ -17579,7 +17578,7 @@ open files with an appropriate program.</source>
         <location line="+13"/>
         <location line="+40"/>
         <source>Strip Thickness</source>
-        <translation>Товщина смужки</translation>
+        <translation>带线厚度</translation>
     </message>
     <message>
         <location line="-65"/>
@@ -17587,7 +17586,7 @@ open files with an appropriate program.</source>
         <location line="+13"/>
         <location line="+40"/>
         <source>Strip Conductivity</source>
-        <translation>Провідність смужки</translation>
+        <translation>带线导电率</translation>
     </message>
     <message>
         <location line="-65"/>
@@ -17597,13 +17596,13 @@ open files with an appropriate program.</source>
         <location line="+12"/>
         <location line="+16"/>
         <source>Dielectric Loss Tangent</source>
-        <translation>Тангенс кута діелектричних втрат</translation>
+        <translation>损耗角正切值</translation>
     </message>
     <message>
         <location line="-65"/>
         <location line="+66"/>
         <source>Conductor Roughness</source>
-        <translation>Шорсткість провідника</translation>
+        <translation>导体粗糙度</translation>
     </message>
     <message>
         <location line="-65"/>
@@ -17613,7 +17612,7 @@ open files with an appropriate program.</source>
         <location line="+12"/>
         <location line="+16"/>
         <source>Frequency</source>
-        <translation>Частота</translation>
+        <translation>频率</translation>
     </message>
     <message>
         <location line="-65"/>
@@ -17621,14 +17620,14 @@ open files with an appropriate program.</source>
         <location line="+13"/>
         <location line="+41"/>
         <source>Line Width</source>
-        <translation>Ширина лінії</translation>
+        <translation>线条宽度 </translation>
     </message>
     <message>
         <location line="-65"/>
         <location line="+13"/>
         <location line="+13"/>
         <source>Line Length</source>
-        <translation>Довжина лінії</translation>
+        <translation>导线长度</translation>
     </message>
     <message>
         <location line="-25"/>
@@ -17637,7 +17636,7 @@ open files with an appropriate program.</source>
         <location line="+13"/>
         <location line="+12"/>
         <source>Characteristic Impedance</source>
-        <translation>Характеристики повного опору</translation>
+        <translation>特征阻抗</translation>
     </message>
     <message>
         <location line="-50"/>
@@ -17647,87 +17646,87 @@ open files with an appropriate program.</source>
         <location line="+12"/>
         <location line="+17"/>
         <source>Electrical Length</source>
-        <translation>Електрична довжина</translation>
+        <translation>电长度</translation>
     </message>
     <message>
         <location line="-37"/>
         <location line="+14"/>
         <source>Conductivity of Metal</source>
-        <translation>Провідність металу</translation>
+        <translation>金属导电率</translation>
     </message>
     <message>
         <location line="-12"/>
         <source>Magnetic Loss Tangent</source>
-        <translation>Тангенс кута магнітних втрат</translation>
+        <translation>磁损耗角正切值</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Width of Waveguide</source>
-        <translation>Ширина хвилеводу</translation>
+        <translation>波导宽度</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Height of Waveguide</source>
-        <translation>Висота хвилеводу</translation>
+        <translation>波导高度</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Waveguide Length</source>
-        <translation>Довжина хвилеводу</translation>
+        <translation>波导长度</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Inner Diameter</source>
-        <translation>Внутрішній діаметр</translation>
+        <translation>内径尺寸</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Outer Diameter</source>
-        <translation>Зовнішній діаметр</translation>
+        <translation>外径尺寸</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+16"/>
         <source>Length</source>
-        <translation>Довжина</translation>
+        <translation>长度</translation>
     </message>
     <message>
         <location line="-55"/>
         <location line="+13"/>
         <location line="+41"/>
         <source>Gap Width</source>
-        <translation>Ширина зазору</translation>
+        <translation>缝隙宽度</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Even-Mode Impedance</source>
-        <translation>Повний опір для парної моди</translation>
+        <translation>偶模阻抗</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Odd-Mode Impedance</source>
-        <translation>Повний опір для непарної моди</translation>
+        <translation>奇模阻抗</translation>
     </message>
     <message>
         <location line="+138"/>
         <source>Selected for Calculation</source>
-        <translation>Вибрано до розрахунку</translation>
+        <translation>选择计算</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Check item for Calculation</source>
-        <translation>Перевірте дані перед розрахунком</translation>
+        <translation>检查计算项</translation>
     </message>
     <message>
         <location line="+217"/>
         <source>About...</source>
-        <translation>Про...</translation>
+        <translation>关于...</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Transmission Line Calculator for Qucs
 </source>
-        <translation>Обчислювач ліній передач для Qucs
+        <translation>Qucs传输线计算器
 </translation>
     </message>
     <message>
@@ -17752,70 +17751,70 @@ open files with an appropriate program.</source>
         <location line="+45"/>
         <location line="+7"/>
         <source>Values are consistent.</source>
-        <translation>Значення узгоджуються.</translation>
+        <translation>取值一致.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Values are inconsistent.</source>
-        <translation>Значення не узгоджуються.</translation>
+        <translation>取值不一致.</translation>
     </message>
     <message>
         <location line="+118"/>
         <source>Loading file...</source>
-        <translation>Завантаження файлу...</translation>
+        <translation>加载文件...</translation>
     </message>
     <message>
         <location line="+4"/>
         <location line="+19"/>
         <source>Transcalc File</source>
-        <translation>Файл Transcalc&apos;а</translation>
+        <translation>Transcalc文件</translation>
     </message>
     <message>
         <location line="-21"/>
         <location line="+19"/>
         <source>Enter a Filename</source>
-        <translation>Введіть ім&apos;я файлу</translation>
+        <translation>输入文件名</translation>
     </message>
     <message>
         <location line="-13"/>
         <location line="+19"/>
         <source>Error</source>
-        <translation>Помилка</translation>
+        <translation>错误</translation>
     </message>
     <message>
         <location line="-18"/>
         <source>Cannot load file:</source>
-        <translation>Неможливо завантажити файл:</translation>
+        <translation>无法加载文件:</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Loading aborted.</source>
-        <translation>Завантаження перервано.</translation>
+        <translation>加载终止.</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Saving file...</source>
-        <translation>Збереження файла...</translation>
+        <translation>保存文件...</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Cannot save file:</source>
-        <translation>Неможливо зберегти файл:</translation>
+        <translation>无法保存文件:</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Saving aborted.</source>
-        <translation>Збереження перервано.</translation>
+        <translation>保存终止.</translation>
     </message>
     <message>
         <location line="+298"/>
         <source>Schematic copied into clipboard.</source>
-        <translation>Схема скопійована в буфер обміну.</translation>
+        <translation>电路图已经复制到剪贴板.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Transmission line type not available.</source>
-        <translation>Тип лінії передачі недоступний.</translation>
+        <translation>没有此类型的传输线.</translation>
     </message>
     <message>
         <location line="-988"/>
@@ -17823,17 +17822,17 @@ open files with an appropriate program.</source>
         <location line="+6"/>
         <location line="+6"/>
         <source>ErEff</source>
-        <translation>Ефективна Er</translation>
+        <translation>ErEff</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>ErEff Even</source>
-        <translation>Ефективна Er для парного моду</translation>
+        <translation>ErEff Even</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>ErEff Odd</source>
-        <translation>Ефективна Er для непарної моди</translation>
+        <translation>ErEff Odd</translation>
     </message>
     <message>
         <location line="+451"/>
@@ -17859,23 +17858,23 @@ open files with an appropriate program.</source>
     <message>
         <location line="-609"/>
         <source>Microstrip Line</source>
-        <translation type="unfinished">Мікросмугова лінія</translation>
+        <translation>微带线</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Coplanar Waveguide</source>
-        <translation type="unfinished"></translation>
+        <translation>共面波导</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Grounded Coplanar</source>
-        <translation type="unfinished"></translation>
+        <translation>接地共面</translation>
     </message>
     <message>
         <location line="+608"/>
         <source>Copyright (C) 2008 by Michael Margraf
 </source>
-        <translation type="unfinished">Copyright (С) 2008 Michael Margraf
+        <translation>Copyright (С) 2008 Michael Margraf
 </translation>
     </message>
 </context>
@@ -17922,105 +17921,108 @@ open files with an appropriate program.</source>
     <message>
         <location filename="schematic.cpp" line="+9"/>
         <source>Title</source>
-        <translation>Назва</translation>
+        <translation>标题</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Drawn By:</source>
-        <translation>Намалював:</translation>
+        <translation>绘制:</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Date:</source>
-        <translation>Дата:</translation>
+        <translation>日期:</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Revision:</source>
-        <translation>Версія:</translation>
+        <translation>版本:</translation>
     </message>
     <message>
         <location filename="schematic_file.cpp" line="+266"/>
         <location line="+22"/>
         <source>Error</source>
-        <translation type="unfinished">Помилка</translation>
+        <translation>错误</translation>
     </message>
     <message>
         <location line="-21"/>
         <source>Program admsXml not found: %1
 
 Set the admsXml location on the application settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>没有找到admsXml: %1
+
+设置admsXml位置.</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>状态</translation>
     </message>
     <message>
         <location line="+928"/>
         <source>ERROR: Cannot create library file &quot;%s&quot;.</source>
-        <translation>ПОМИЛКА: Неможливо створити файл бібліотеки &quot;%s&quot;.</translation>
+        <translation>错误：无法创建库文件 &quot;%s&quot;.</translation>
     </message>
     <message>
         <location filename="schematic.cpp" line="+1299"/>
         <source>generic</source>
-        <translation type="unfinished"></translation>
+        <translation>通用</translation>
     </message>
     <message>
         <location line="-1212"/>
         <source>Edit Text</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑文本</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Edits the Text</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑文本</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Edit Text
 
 Edits the text file</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑文本
+编辑文本</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Edit Schematic</source>
-        <translation type="unfinished">Змінити схему</translation>
+        <translation>编辑电路图</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Edits the schematic</source>
-        <translation type="unfinished">Правка схеми</translation>
+        <translation>编辑电路图</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Edit Schematic
 
 Edits the schematic</source>
-        <translation type="unfinished">Змінити схему
+        <translation>编辑电路图
 
-Правка схеми</translation>
+编辑电路图</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Edit Circuit Symbol</source>
-        <translation type="unfinished">Змінити позначення схеми</translation>
+        <translation>编辑电路符号</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Edits the symbol for this schematic</source>
-        <translation type="unfinished">Правка позначення для цієї схеми</translation>
+        <translation>编辑电路图</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Edit Circuit Symbol
 
 Edits the symbol for this schematic</source>
-        <translation type="unfinished">Змінити позначення схеми
+        <translation>编辑电路图
 
-Правка позначення для цієї схеми</translation>
+编辑电路图</translation>
     </message>
 </context>
 <context>
@@ -18030,107 +18032,106 @@ Edits the symbol for this schematic</source>
         <source>The search result contains all components whose
 name contains the search string. All libraries
 are included in the search.</source>
-        <translation>Результати пошуку містять всі компоненти
- в іменах яких присутній рядок пошуку.
-Усі бібліотеки включені у пошук.</translation>
+        <translation>查找结果包括所有代查字符所在的字符串.
+所有的器件库均以查找.</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Search string:</source>
-        <translation>Рядок пошуку:</translation>
+        <translation>查找字符串:</translation>
     </message>
     <message>
         <location filename="dialogs/searchdialog.cpp" line="+71"/>
         <location filename="../qucs-lib/searchdialog.cpp" line="+11"/>
         <source>Search</source>
-        <translation>Пошук</translation>
+        <translation>查找</translation>
     </message>
     <message>
         <location filename="../qucs-lib/searchdialog.cpp" line="+2"/>
         <source>Close</source>
-        <translation>Закрити</translation>
+        <translation>关闭</translation>
     </message>
     <message>
         <location line="+89"/>
         <location line="+1"/>
         <source>Search result</source>
-        <translation>Результати пошуку</translation>
+        <translation>查询结果</translation>
     </message>
     <message>
         <location filename="dialogs/searchdialog.cpp" line="+23"/>
         <source>Search Text</source>
-        <translation>Знайти текст</translation>
+        <translation>查找文本</translation>
     </message>
     <message>
         <location line="-34"/>
         <source>From cursor position</source>
-        <translation>З позиції курсору</translation>
+        <translation>从光标处查找</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Case sensitive</source>
-        <translation>Враховувати регістр</translation>
+        <translation>区分大小写</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Whole words only</source>
-        <translation>Тільки цілі слова</translation>
+        <translation>完全匹配</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Search backwards</source>
-        <translation>Зворотний пошук</translation>
+        <translation>反向查找</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Cancel</source>
-        <translation>Скасувати</translation>
+        <translation>取消</translation>
     </message>
     <message>
         <location line="+90"/>
         <source>Search...</source>
-        <translation>Знайти...</translation>
+        <translation>查找...</translation>
     </message>
     <message>
         <location line="-122"/>
         <source>Text to search for</source>
-        <translation>Знайти текст</translation>
+        <translation>代查文本</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Text to replace with</source>
-        <translation>Замінити на</translation>
+        <translation>代替换文本</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Ask before replacing</source>
-        <translation>Запитувати перед заміною</translation>
+        <translation>替换前查询</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>Replace Text</source>
-        <translation>Замінити текст</translation>
+        <translation>替换文本</translation>
     </message>
     <message>
         <location line="+56"/>
         <location line="+23"/>
         <source>Replace...</source>
-        <translation>Замінити...</translation>
+        <translation>替换...</translation>
     </message>
     <message>
         <location line="-23"/>
         <source>Replace occurrence ?</source>
-        <translation>Заміну проведено?</translation>
+        <translation>递归替换?</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Search string not found!</source>
-        <translation>Рядок не знайдено!</translation>
+        <translation>字符串没有找到!</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Replaced %1 occurrences!</source>
-        <translation>Заміну зроблено %1 раз!</translation>
+        <translation>替换 %1次!</translation>
     </message>
 </context>
 <context>
@@ -18158,7 +18159,7 @@ are included in the search.</source>
     <message>
         <location line="+5"/>
         <source>horizontal Grid:</source>
-        <translation type="unfinished">水平网格:</translation>
+        <translation>水平网格:</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -18261,23 +18262,23 @@ are included in the search.</source>
     <message>
         <location filename="dialogs/simmessage.cpp" line="+52"/>
         <source>Qucs Simulation Messages</source>
-        <translation>Повідомлення моделювання Qucs</translation>
+        <translation>Qucs仿真信息</translation>
     </message>
     <message>
         <location line="+21"/>
         <location line="+18"/>
         <source>Progress:</source>
-        <translation>Прогрес:</translation>
+        <translation>进度:</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Errors and Warnings:</source>
-        <translation>Помилки і зауваження:</translation>
+        <translation>错误与警告:</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Goto display page</source>
-        <translation>Перейти на сторінку перегляду</translation>
+        <translation>跳转到显示页</translation>
     </message>
     <message>
         <location line="+5"/>
