@@ -1537,79 +1537,79 @@
     <message>
         <location filename="dialogs/librarydialog.cpp" line="+51"/>
         <source>Create Library</source>
-        <translation>Створити бібліотеку</translation>
+        <translation>创建库</translation>
     </message>
     <message>
         <location line="+27"/>
         <location line="+108"/>
         <source>Library Name:</source>
-        <translation>Ім&apos;я бібліотеки:</translation>
+        <translation>库名称:</translation>
     </message>
     <message>
         <location line="-101"/>
         <source>Choose subcircuits:</source>
-        <translation>Вибір підсхем:</translation>
+        <translation>选择子电路:</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Add subcircuit description</source>
-        <translation type="unfinished"></translation>
+        <translation>添加子电路描述</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>Enter description for:</source>
-        <translation type="unfinished"></translation>
+        <translation>输入描述：</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Description:</source>
-        <translation type="unfinished">Опис:</translation>
+        <translation>描述:</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>上一个</translation>
     </message>
     <message>
         <location line="+12"/>
         <location line="+193"/>
         <source>Create</source>
-        <translation>Створити</translation>
+        <translation>新建</translation>
     </message>
     <message>
         <location line="+97"/>
         <source>Creating Qucs netlist.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>生成Qucs网表.</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>Error: Cannot create netlist for &quot;%1&quot;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>错误：无法创建网表文件&quot;%1&quot;.</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Creating Verilog netlist.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>创建Verilog网表文件.</translation>
     </message>
     <message>
         <location line="+37"/>
         <source>Creating VHDL netlist.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>创建VHDL网表文件.</translation>
     </message>
     <message>
         <location line="+50"/>
         <source>Error creating library.</source>
-        <translation type="unfinished"></translation>
+        <translation>创建库文件错误.</translation>
     </message>
     <message>
         <location line="-465"/>
         <location line="+47"/>
         <source>Cancel</source>
-        <translation>Скасувати</translation>
+        <translation>取消</translation>
     </message>
     <message>
         <source>No subcircuits!</source>
@@ -1634,81 +1634,81 @@
         <location line="+8"/>
         <location line="+13"/>
         <source>Error</source>
-        <translation>Помилка</translation>
+        <translation>错误</translation>
     </message>
     <message>
         <location line="-39"/>
         <source>Please insert a library name!</source>
-        <translation>Введіть ім&apos;я бібліотеки!</translation>
+        <translation>插入库名!</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Please choose at least one subcircuit!</source>
-        <translation>Виберіть хоча б одну підсхему!</translation>
+        <translation>选择至少一个子电路!</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Warning</source>
-        <translation>Попередження</translation>
+        <translation>警告</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Cannot create user library directory !</source>
-        <translation>Неможливо створити теку для бібліотек користувача!</translation>
+        <translation>不能创建用户库目录!</translation>
     </message>
     <message>
         <location line="+8"/>
         <location filename="../qucs-lib/librarydialog.cpp" line="-103"/>
         <source>A system library with this name already exists!</source>
-        <translation>Системна бібліотека з цим ім&apos;ям вже є!</translation>
+        <translation>此系统库名已经存在!</translation>
     </message>
     <message>
         <location line="+6"/>
         <location filename="../qucs-lib/librarydialog.cpp" line="+6"/>
         <source>A library with this name already exists!</source>
-        <translation>Бібліотека з цим ім&apos;ям вже є!</translation>
+        <translation>此库名已经存在!!</translation>
     </message>
     <message>
         <location line="-76"/>
         <location filename="../qucs-lib/librarydialog.cpp" line="-91"/>
         <source>Close</source>
-        <translation>Закрити</translation>
+        <translation>关闭</translation>
     </message>
     <message>
         <location line="-12"/>
         <source>Message:</source>
-        <translation type="unfinished"></translation>
+        <translation>信息:</translation>
     </message>
     <message>
         <location line="+33"/>
         <source>No projects!</source>
-        <translation type="unfinished">Намає проектів!</translation>
+        <translation>没有项目!</translation>
     </message>
     <message>
         <location line="+142"/>
         <source>Next...</source>
-        <translation type="unfinished"></translation>
+        <translation>下一个...</translation>
     </message>
     <message>
         <location line="+50"/>
         <source>Saving library...</source>
-        <translation type="unfinished"></translation>
+        <translation>保存库...</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Error: Cannot create library!</source>
-        <translation>Помилка: Неможливо створити бібліотеку!</translation>
+        <translation>错误：无法创建库!</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>Loading subcircuit &quot;%1&quot;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>加载子电路&quot;%1&quot;.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Error: Cannot load subcircuit &quot;%1&quot;.</source>
-        <translation>Помилка: Неможливо завантажити підсхему &quot;%1&quot;.</translation>
+        <translation>错误：无法加载子电路&quot;%1&quot;.</translation>
     </message>
     <message>
         <source>
@@ -1720,7 +1720,7 @@ Successfully created library.</source>
         <location line="-325"/>
         <location line="+39"/>
         <source>Next &gt;&gt;</source>
-        <translation>Далі &gt;&gt;</translation>
+        <translation>下一个》</translation>
     </message>
     <message>
         <source>Enter description for &quot;%1&quot;:</source>
@@ -1729,27 +1729,27 @@ Successfully created library.</source>
     <message>
         <location filename="../qucs-lib/librarydialog.cpp" line="-32"/>
         <source>Manage User Libraries</source>
-        <translation>Управління бібліотеками користувача</translation>
+        <translation>管理用户库文件</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Choose library:</source>
-        <translation>Вибір бібліотеки:</translation>
+        <translation>选择库:</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>New Name:</source>
-        <translation>Нове ім&apos;я:</translation>
+        <translation>新名称:</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Delete</source>
-        <translation>Видалити</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Rename</source>
-        <translation>Переіменувати</translation>
+        <translation>重命名</translation>
     </message>
     <message>
         <source>No user library!</source>
@@ -1758,68 +1758,68 @@ Successfully created library.</source>
     <message>
         <location line="+62"/>
         <source>Please insert a new library name!</source>
-        <translation>Введіть ім&apos;я нової бібліотеки!</translation>
+        <translation>插入新的库名称!</translation>
     </message>
     <message>
         <location line="+14"/>
         <location line="+93"/>
         <source>Please choose a library!</source>
-        <translation>Виберіть бібліотеку!</translation>
+        <translation>选择一个库!</translation>
     </message>
     <message>
         <location line="-63"/>
         <source>Cannot open library!</source>
-        <translation>Неможливо відкрити бібліотеку!</translation>
+        <translation>库无法打开!</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>No permission to modify library!</source>
-        <translation>Немає прав змінити бібліотеку!</translation>
+        <translation>没有修改库的权限!</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Writing new library not successful!</source>
-        <translation>Нову бібліотеку не вдалось записати!</translation>
+        <translation>保存新库没有成功!</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Cannot delete old library.</source>
-        <translation>Неможливо видалити стару бібліотеку.</translation>
+        <translation>无法删除旧库.</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Library file is corrupt!</source>
-        <translation>Файл бібліотеки пошкоджений!</translation>
+        <translation>库文件损坏!</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>No permission to delete library &quot;%1&quot;.</source>
-        <translation>Немає прав на видалення бібліотеки &quot;%1&quot;.</translation>
+        <translation>没有权限删除库&quot;%1&quot;.</translation>
     </message>
     <message>
         <location filename="dialogs/librarydialog.cpp" line="+427"/>
         <source>Successfully created library.</source>
-        <translation>Бібліотека успішно створена.</translation>
+        <translation>成功创建库.</translation>
     </message>
     <message>
         <location line="-476"/>
         <source>Select All</source>
-        <translation>Виділити все</translation>
+        <translation>全选</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Deselect All</source>
-        <translation>Відмінити виділення</translation>
+        <translation>取消全选</translation>
     </message>
     <message>
         <location filename="../qucs-lib/librarydialog.cpp" line="-78"/>
         <source>Cannot rename library subdirectory!</source>
-        <translation>Неможливо переіменувати папку бібліотеки!</translation>
+        <translation>无法重命名库子文件夹!</translation>
     </message>
     <message>
         <location line="+91"/>
         <source>No permission to delete library subdirectory &quot;%1&quot;.</source>
-        <translation>Нема прав на переіменування папки бібліотеки &quot;%1&quot;.</translation>
+        <translation>没有权限删除库子文件夹&quot;%1&quot;.</translation>
     </message>
 </context>
 <context>
@@ -12730,27 +12730,27 @@ Usage:  qucsedit [-r] file
     <message>
         <location filename="qucs.cpp" line="-482"/>
         <source>New</source>
-        <translation>Створити</translation>
+        <translation>新建</translation>
     </message>
     <message>
         <location filename="qucs_init.cpp" line="+38"/>
         <source>&amp;New</source>
-        <translation>&amp;Створити</translation>
+        <translation>&amp;新建</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Creates a new document</source>
-        <translation>Створити новий документ</translation>
+        <translation>创建新文件</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>&amp;Open...</source>
-        <translation>&amp;Відкрити...</translation>
+        <translation>&amp;打开...</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Opens an existing document</source>
-        <translation>Відкриває існуючий документ</translation>
+        <translation>打开已有文件</translation>
     </message>
     <message>
         <source>New
@@ -12769,12 +12769,12 @@ Opens an existing document</source>
         <location line="+941"/>
         <location filename="qucs_init.cpp" line="+4"/>
         <source>&amp;Save</source>
-        <translation>&amp;Зберегти</translation>
+        <translation>&amp;保存</translation>
     </message>
     <message>
         <location filename="qucs_init.cpp" line="+2"/>
         <source>Saves the current document</source>
-        <translation>Зберігає поточний документ</translation>
+        <translation>保存当前文件</translation>
     </message>
     <message>
         <source>Save File
@@ -12785,7 +12785,7 @@ Saves the current document</source>
     <message>
         <location line="+7"/>
         <source>Saves the current document under a new filename</source>
-        <translation>Зберігає поточний документ під іншим ім&apos;ям</translation>
+        <translation>文件另存为</translation>
     </message>
     <message>
         <source>Save As
@@ -12796,12 +12796,12 @@ Saves the current document under a new filename</source>
     <message>
         <location line="+5"/>
         <source>Save &amp;All</source>
-        <translation>Зберегти &amp;все</translation>
+        <translation>保存&amp;全部</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Saves all open documents</source>
-        <translation>Зберігає всі відкриті документи</translation>
+        <translation>保存所有打开的文件</translation>
     </message>
     <message>
         <source>Save All Files
@@ -12812,12 +12812,12 @@ Saves all open documents</source>
     <message>
         <location line="+4"/>
         <source>&amp;Close</source>
-        <translation>&amp;Закрити</translation>
+        <translation>&amp;关闭</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Closes the current document</source>
-        <translation>Закриває поточний документ</translation>
+        <translation>关闭当前文件</translation>
     </message>
     <message>
         <source>Close File
@@ -12834,12 +12834,12 @@ Sets properties of the file</source>
     <message>
         <location line="+24"/>
         <source>&amp;Print...</source>
-        <translation>&amp;Надрукувати...</translation>
+        <translation>&amp;打印...</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Prints the current document</source>
-        <translation>Друкує поточний документ</translation>
+        <translation>打印当前文件</translation>
     </message>
     <message>
         <source>Print File
@@ -12850,12 +12850,12 @@ Prints the current document</source>
     <message>
         <location line="+12"/>
         <source>E&amp;xit</source>
-        <translation>&amp;Вийти</translation>
+        <translation>&amp;退出</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Quits the application</source>
-        <translation>Закінчує роботу програми</translation>
+        <translation>退出</translation>
     </message>
     <message>
         <source>Exit
@@ -12870,7 +12870,7 @@ Quits the application</source>
     <message>
         <location line="+92"/>
         <source>Cu&amp;t</source>
-        <translation>&amp;Вирізати</translation>
+        <translation>&amp;剪切</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -12879,7 +12879,7 @@ Quits the application</source>
     <message>
         <location line="+8"/>
         <source>&amp;Copy</source>
-        <translation>&amp;Копіювати</translation>
+        <translation>&amp;复制</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -12888,7 +12888,7 @@ Quits the application</source>
     <message>
         <location line="+8"/>
         <source>&amp;Paste</source>
-        <translation>&amp;Вставити</translation>
+        <translation>&amp;粘贴</translation>
     </message>
     <message>
         <source>digital components</source>
@@ -12897,85 +12897,85 @@ Quits the application</source>
     <message>
         <location filename="qucs.cpp" line="-1726"/>
         <source>Schematic</source>
-        <translation>Схема</translation>
+        <translation>电路图</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Data Display</source>
-        <translation>Вікно перегляду даних</translation>
+        <translation>显示数据</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Qucs Documents</source>
-        <translation>Документи Qucs</translation>
+        <translation>Qucs文件</translation>
     </message>
     <message>
         <location line="+6"/>
         <location line="+1554"/>
         <location filename="qucs_actions.cpp" line="-172"/>
         <source>Any File</source>
-        <translation>Будь-який файл</translation>
+        <translation>任意文件</translation>
     </message>
     <message>
         <location line="-1392"/>
         <location line="+525"/>
         <source>Open</source>
-        <translation>Відкрити</translation>
+        <translation>打开</translation>
     </message>
     <message>
         <location line="-523"/>
         <location line="+535"/>
         <source>Delete</source>
-        <translation>Видалити</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location line="-519"/>
         <source>Projects</source>
-        <translation>Проекти</translation>
+        <translation>项目</translation>
     </message>
     <message>
         <location line="+10"/>
         <location line="+1087"/>
         <source>Content of</source>
-        <translation>Зміст</translation>
+        <translation>内容</translation>
     </message>
     <message>
         <location line="-1087"/>
         <location line="+1022"/>
         <location line="+65"/>
         <source>Note</source>
-        <translation>Примітка</translation>
+        <translation>注释</translation>
     </message>
     <message>
         <location line="-1186"/>
         <source>Datasets</source>
-        <translation>Набори даних</translation>
+        <translation>数据</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Data Displays</source>
-        <translation>Вікна перегляду даних</translation>
+        <translation>显示数据</translation>
     </message>
     <message>
         <location line="+10"/>
         <location line="+2373"/>
         <source>Schematics</source>
-        <translation>Схеми</translation>
+        <translation>电路图</translation>
     </message>
     <message>
         <location line="-2276"/>
         <source>Content</source>
-        <translation>Зміст</translation>
+        <translation>内容</translation>
     </message>
     <message>
         <location line="+24"/>
         <source>Components</source>
-        <translation>Компоненти</translation>
+        <translation>器件</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>components and diagrams</source>
-        <translation>компоненти і діаграми</translation>
+        <translation>部件与流程图</translation>
     </message>
     <message>
         <source>lumped components</source>
@@ -13012,7 +13012,7 @@ Quits the application</source>
     <message>
         <location line="+470"/>
         <source>Rename</source>
-        <translation>Переіменувати</translation>
+        <translation>重命名</translation>
     </message>
     <message>
         <source>Delete Group</source>
@@ -13056,33 +13056,33 @@ Quits the application</source>
         <location line="+19"/>
         <location line="+144"/>
         <source>Error</source>
-        <translation>Помилка</translation>
+        <translation>错误</translation>
     </message>
     <message>
         <location line="-1954"/>
         <source>Cannot rename an open file!</source>
-        <translation>Неможливо перейменувати відкритий файл!</translation>
+        <translation>不能重命名已打开的文件!</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Rename file</source>
-        <translation>Переіменувати файл</translation>
+        <translation>文件重命名</translation>
     </message>
     <message>
         <location line="-49"/>
         <location line="+49"/>
         <source>Enter new name:</source>
-        <translation>Введіть ім&apos;я:</translation>
+        <translation>输入新名称:</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Cannot rename file: </source>
-        <translation>Неможливо перейменувати файл: </translation>
+        <translation>无法重命名: </translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Cannot delete an open file!</source>
-        <translation>Неможливо видалити відкритий файл!</translation>
+        <translation>无法删除已打开文件!</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -13092,12 +13092,12 @@ Quits the application</source>
         <location line="+246"/>
         <location line="+630"/>
         <source>Warning</source>
-        <translation>Попередження</translation>
+        <translation>警告</translation>
     </message>
     <message>
         <location line="-1328"/>
         <source>This will delete the file permanently! Continue ?</source>
-        <translation>Це безповоротно видалить файл! Продовжити ?</translation>
+        <translation>这会永久删除文件! 继续吗 ?</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -13105,7 +13105,7 @@ Quits the application</source>
         <location line="+623"/>
         <location line="+454"/>
         <source>No</source>
-        <translation>Ні</translation>
+        <translation>否</translation>
     </message>
     <message>
         <location line="-1154"/>
@@ -13113,12 +13113,12 @@ Quits the application</source>
         <location line="+623"/>
         <location line="+454"/>
         <source>Yes</source>
-        <translation>Так</translation>
+        <translation>是</translation>
     </message>
     <message>
         <location line="-1149"/>
         <source>Cannot delete schematic: </source>
-        <translation>Неможливо видалити схему: </translation>
+        <translation>无法删除电路图: </translation>
     </message>
     <message>
         <source>Cannot delete the open file: </source>
@@ -13137,17 +13137,17 @@ Quits the application</source>
     <message>
         <location line="+118"/>
         <source>Cannot create work directory !</source>
-        <translation>Неможливо створити робочу теку !</translation>
+        <translation>无法创建工作目录!</translation>
     </message>
     <message>
         <location line="+712"/>
         <source>Closing Qucs document</source>
-        <translation>Закриття документа Qucs</translation>
+        <translation>关闭Qucs文件</translation>
     </message>
     <message>
         <location line="-319"/>
         <source>Creating new schematic...</source>
-        <translation>Створення нової схеми...</translation>
+        <translation>创建新电路图...</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -13168,69 +13168,69 @@ Quits the application</source>
         <location line="+397"/>
         <location filename="qucs_init.cpp" line="+715"/>
         <source>Ready.</source>
-        <translation>Готово.</translation>
+        <translation>预备.</translation>
     </message>
     <message>
         <location line="-648"/>
         <location filename="qucs_actions.cpp" line="-406"/>
         <source>Opening file...</source>
-        <translation>Відкриття файлу...</translation>
+        <translation>打开文件...</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Enter a Schematic Name</source>
-        <translation>Введіть ім&apos;я схеми</translation>
+        <translation>输入电路图名称</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Opening aborted</source>
-        <translation>Відкриття перервано</translation>
+        <translation>打开终止</translation>
     </message>
     <message>
         <location line="-745"/>
         <location line="+429"/>
         <location line="+772"/>
         <source>-port</source>
-        <translation>-виводи</translation>
+        <translation>-端口</translation>
     </message>
     <message>
         <location line="-420"/>
         <source>Saving file...</source>
-        <translation>Збереження файла...</translation>
+        <translation>保存文件...</translation>
     </message>
     <message>
         <location line="+6"/>
         <location line="+132"/>
         <source>Saving aborted</source>
-        <translation>Збереження перервано</translation>
+        <translation>保存终止</translation>
     </message>
     <message>
         <location line="-83"/>
         <source>Enter a Document Name</source>
-        <translation>Введіть ім&apos;я документа</translation>
+        <translation>输入文档名称</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>The file &apos;</source>
-        <translation>Файл &apos;</translation>
+        <translation>指定文件 &apos;</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>&apos; already exists!
 </source>
-        <translation>&apos; вже існує! 
+        <translation>&apos; 已经存在! 
 </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Saving will overwrite the old one! Continue?</source>
-        <translation>Збереження призведе до перезапису колишнього фала! Продовжити?</translation>
+        <translation>保存会导致覆盖旧文件! 继续?</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+138"/>
         <source>Cancel</source>
-        <translation>Скасувати</translation>
+        <translation>取消</translation>
     </message>
     <message>
         <location line="-1144"/>
@@ -13250,50 +13250,50 @@ Quits the application</source>
         <location line="+14"/>
         <location line="+799"/>
         <source>Info</source>
-        <translation>Інформація</translation>
+        <translation>信息</translation>
     </message>
     <message>
         <location line="-886"/>
         <source>Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>插入</translation>
     </message>
     <message>
         <location line="+509"/>
         <source>Content of </source>
-        <translation type="unfinished"></translation>
+        <translation>内容</translation>
     </message>
     <message>
         <location line="+378"/>
         <source>Cannot overwrite an open document</source>
-        <translation>Неможливо перезаписати відкритий документ</translation>
+        <translation>无法覆盖已打开的文件</translation>
     </message>
     <message>
         <location line="+45"/>
         <source>Saving file under new filename...</source>
-        <translation>Збереження файла під новим ім&apos;ям...</translation>
+        <translation>文件另存为...</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>Saving all files...</source>
-        <translation>Збереження всіх файлів...</translation>
+        <translation>保存所有文件...</translation>
     </message>
     <message>
         <location line="+49"/>
         <source>Closing file...</source>
-        <translation>Закриття файлу...</translation>
+        <translation>关闭文件...</translation>
     </message>
     <message>
         <location line="-935"/>
         <location line="+941"/>
         <source>The document contains unsaved changes!
 </source>
-        <translation>У документі є незбережені зміни! 
+        <translation>文件未保存! 
 </translation>
     </message>
     <message>
         <location line="-1717"/>
         <source>Spice Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Spice文件</translation>
     </message>
     <message>
         <location line="+240"/>
